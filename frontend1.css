@@ -2,9 +2,7 @@
 
 body{
     /* background: aquamarine; */
-    background-color: black;
-    background: local;
-    /* background: linear-gradient(to bottom, rgb(50, 119, 223),rgb(116, 148, 197),rgb(222, 223, 248),rgb(100, 115, 112)); */
+    background: linear-gradient(to bottom, rgb(50, 119, 223),rgb(116, 148, 197),rgb(222, 223, 248),rgb(100, 115, 112));
     
 }
 #head{
